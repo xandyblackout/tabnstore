@@ -1,0 +1,816 @@
+div#container
+{
+   width: 1200px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #F5F5F5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#PageHeader1
+{
+   background-color: transparent;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#wb_giro_promocao
+{
+   background-color: transparent;
+   background-image: none;
+}
+#giro_promocao .frame
+{
+   width: 1110px;
+   display: inline-block;
+   float: left;
+   height: 380px;
+}
+#wb_giro_promocao .pagination
+{
+   bottom: 0;
+   left: 0;
+   position: absolute;
+   text-align: center;
+   vertical-align: middle;
+   width: 100%;
+   z-index: 998;
+}
+#wb_giro_promocao .pagination img
+{
+   border-style: none;
+   padding: 12px 12px 12px 12px;
+}
+#giro_promocao .frame-1
+{
+   background-color: transparent;
+   background-image: url(images/imagem_carrossel01.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+}
+#giro_promocao .frame-2
+{
+   background-color: transparent;
+   background-image: url(images/imagem_carrossel02.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+}
+#giro_promocao .frame-3
+{
+   background-color: transparent;
+   background-image: url(images/imagem_carrossel03.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+}
+#giro_promocao .frame-4
+{
+   background-color: transparent;
+   background-image: url(images/imagem_carrossel04.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+}
+#giro_promocao .frame-5
+{
+   background-color: transparent;
+   background-image: url(images/imagem_carrossel05.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Image8
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image9
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image11
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#logo_site
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_LoginName1
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   font-style: italic;
+   text-align: left;
+}
+#Editbox1
+{
+   border: 2px #CCCCCC solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 4px 4px 4px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox1:focus
+{
+   border-color: #2F4F4F;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(47,79,79,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(47,79,79,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(47,79,79,0.60);
+   outline: 0;
+}
+#Button1
+{
+   border: 2px #808080 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: transparent;
+   background-image: url(images/200px-magnifying_glass_icon.png);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 100% 100%;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#wb_TextMenu1
+{
+   background-color: transparent;
+   background-image: none;
+   color :#0000FF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+}
+#wb_TextMenu1 span
+{
+   margin: 0 5px 0 0px;
+}
+#wb_TextMenu1 .active
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#Layer3
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Image10
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Logout1
+{
+   color: #0000CD;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: underline;
+   width: 44px;
+   height: 22px;
+}
+#Layer4
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 2px #CCCCCC solid;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#Layer2
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 1px #DCDCDC solid;
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
+}
+#Image13
+{
+   border: 0px transparent solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Image7
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image12
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Breadcrumb1
+{
+   padding: 8px 15px 8px 15px;
+   list-style: none;
+   background-color: #696969;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+   border-radius: 7px;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 0;
+}
+#Breadcrumb1 > li
+{
+   display: inline-block;
+   font-size: 16px;
+}
+#Breadcrumb1 a
+{
+   color: #F5F5F5;
+   text-decoration: none;
+}
+#Breadcrumb1 a:hover
+{
+   color: #23527C;
+   text-decoration: underline;
+}
+#Breadcrumb1 > .active
+{
+   color: #777777;
+}
+#Breadcrumb1 > li + li:before
+{
+   content: " | ";
+   padding: 0 10px;
+   color: #C0C0C0;
+}
+#Breadcrumb1 li i
+{
+   font-size: 16px;
+   width: 18px;
+}
+#Layer1
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 2px #CCCCCC solid;
+   -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   border-radius: 15px;
+}
+#wb_botão_menu
+{
+   display: block;
+   text-align: left;
+   width: 100%;
+}
+#botão_menu
+{
+   background-color: #F5F5F5;
+   height: 80px;
+}
+#wb_botão_menu ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
+#wb_botão_menu ul:after
+{
+   clear: both;
+   content: "";
+   display: block;
+}
+#wb_botão_menu ul li
+{
+   background-color: #F5F5F5;
+   display: list-item;
+   float: left;
+   list-style: none;
+   z-index: 9999;
+}
+#wb_botão_menu ul li i
+{
+   font-size: 35px;
+   width: 35px;
+}
+#wb_botão_menu ul li a 
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   font-weight: normal;
+   font-style: normal;
+   padding: 15px 30px 15px 30px;
+   text-align: center;
+   text-decoration: none;
+}
+#wb_botão_menu > ul > li > a 
+{
+   height: 50px;
+}
+.botão_menu a 
+{
+   display: block;
+}
+#wb_botão_menu li a:hover, #wb_botão_menu li .active
+{ 
+   background-color: #CCCCCC;
+   color: #424242;
+}
+#wb_botão_menu ul ul
+{
+   display: none;
+   position: absolute;
+   top: 80px;
+}
+#wb_botão_menu ul li:hover > ul
+{
+   display: list-item;
+}
+#wb_botão_menu ul ul li 
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+   float: none;
+   position: relative;
+   width: 180px;
+}
+#wb_botão_menu ul ul li a:hover, #wb_botão_menu ul ul li .active
+{
+   background-color: #CCCCCC;
+   color: #424242;
+}
+#wb_botão_menu ul ul li i 
+{
+   margin-right: 11px;
+   vertical-align: middle;
+}
+#wb_botão_menu ul ul li a 
+{
+   color: #FFFFFF;
+   padding: 15px 20px 15px 20px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_botão_menu ul ul ul li 
+{
+   left: 180px;
+   position: relative;
+   top: -80px;
+}
+#wb_botão_menu .arrow-down 
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 2px;
+   vertical-align: middle;
+   border-top: 4px solid #000000;
+   border-right: 4px solid transparent;
+   border-left: 4px solid transparent;
+   border-bottom: 0 dotted;
+}
+#wb_botão_menu .arrow-left 
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 4px;
+   vertical-align: middle;
+   border-left: 4px solid #FFFFFF;
+   border-top: 4px solid transparent;
+   border-bottom: 4px solid transparent;
+   border-right: 0 dotted;
+}
+#wb_botão_menu li a:hover .arrow-down
+{ 
+   border-top-color: #424242;
+}
+#wb_botão_menu ul ul li a:hover .arrow-left, #wb_botão_menu ul ul li .active .arrow-left
+{ 
+   border-left-color: #424242;
+}
+#wb_botão_menu .toggle,[id^=botão_menu-submenu]
+{
+   display: none;
+}
+@media all and (max-width:768px) 
+{
+#wb_botão_menu 
+{
+   margin: 0;
+}
+#wb_botão_menu ul li a, #wb_botão_menu .toggle
+{
+   font-size: 13px;
+   font-weight: normal;
+   font-style: normal;
+   padding: 15px 20px 15px 20px;
+}
+#wb_botão_menu .toggle + a
+{
+   display: none !important;
+}
+.botão_menu 
+{
+   display: none;
+   z-index: 9999;
+}
+#botão_menu 
+{
+   background-color: transparent;
+}
+#wb_botão_menu > ul > li > a 
+{
+   height: auto;
+}
+#wb_botão_menu .toggle 
+{
+   display: block;
+   background-color: #F5F5F5;
+   color: #000000;
+   padding: 0px 20px 0px 20px;
+   line-height: 65px;
+   text-decoration: none;
+   border: none;
+}
+#wb_botão_menu .toggle:hover 
+{
+   background-color: #CCCCCC;
+   color: #424242;
+}
+[id^=botão_menu-submenu]:checked + ul 
+{
+   display: block !important;
+}
+#botão_menu-title
+{
+   height: 80px;
+   line-height: 80px !important;
+   text-align: left;
+}
+#wb_botão_menu ul li 
+{
+   display: block;
+   width: 100%;
+}
+#wb_botão_menu ul ul .toggle,
+#wb_botão_menu ul ul a 
+{
+   padding: 0 40px;
+}
+#wb_botão_menu a:hover,
+#wb_botão_menu ul ul ul a 
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+}
+#wb_botão_menu ul li ul li .toggle,
+#wb_botão_menu ul ul a 
+{
+   background-color: #7A7A7A;
+   color: #FFFFFF;
+}
+#wb_botão_menu ul ul ul a 
+{
+   padding: 15px 20px 15px 60px;
+}
+#wb_botão_menu ul li a 
+{
+   text-align: left;
+}
+#wb_botão_menu ul li a br 
+{
+   display: none;
+}
+#wb_botão_menu ul li i 
+{
+   margin-right: 11px;
+}
+#wb_botão_menu ul ul 
+{
+   float: none;
+   position: static;
+}
+#wb_botão_menu ul ul li:hover > ul,
+#wb_botão_menu ul li:hover > ul 
+{
+   display: none;
+}
+#wb_botão_menu ul ul li 
+{
+   display: block;
+   width: 100%;
+}
+#wb_botão_menu ul ul ul li 
+{
+   position: static;
+}
+#botão_menu-icon 
+{
+   display: block;
+   position: absolute;
+   right: 30px;
+   top: 28px;
+}
+#botão_menu-icon span 
+{
+   display: block;
+   margin-top: 4px;
+   height: 2px;
+   background-color: #000000;
+   color: #000000;
+   width: 24px;
+}
+#wb_botão_menu ul li ul li .toggle:hover
+{
+   background-color: #CCCCCC;
+   color: #424242;
+}
+#wb_botão_menu .toggle .arrow-down 
+{
+   border-top-color: #000000;
+}
+#wb_botão_menu .toggle:hover .arrow-down, #wb_botão_menu li .active .arrow-down
+{ 
+   border-top-color: #424242;
+}
+#wb_botão_menu ul li ul li .toggle .arrow-down 
+{
+   border-top-color: #FFFFFF;
+}
+#wb_botão_menu ul li ul li .toggle:hover .arrow-down, #wb_botão_menu ul li ul li .active .arrow-down
+{ 
+   border-top-color: #424242;
+}
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image14
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#PageFooter1
+{
+   background-color: transparent;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
